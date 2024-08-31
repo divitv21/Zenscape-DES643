@@ -1,1 +1,3 @@
-# Zenscape-DES643
+# ZenScape: VR Meditation
+
+Project developed 
